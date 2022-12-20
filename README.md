@@ -1,5 +1,6 @@
 - 👋 Olá, eu me chamo Rafael knevitz da cruz
 - 👀 Estou em busca de uma oportunidade de emprego
+- 👨‍🎓 Sou formado em Técnico em informática para internet
 - 🌱 Atualmente estou cursando análise e desenvolvimento de software
 <div align="center">
     <a href="https://github.com/Rknevitz">
