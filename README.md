@@ -2,7 +2,9 @@
 - 👀 Estou em busca de uma oportunidade de emprego
 - 👨‍🎓 Sou formado em Técnico em informática para internet
 - 🌱 Atualmente estou cursando análise e desenvolvimento de software
+- 🥈 Segundo lugar na maratona de programação do Instituto federal Sul-Rio-Grandense
 
+##
 
 
 <div align="center">
