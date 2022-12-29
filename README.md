@@ -1,3 +1,8 @@
+<div>
+    <img alt="gif-Rafael"  height="200" width="1000" src="https://user-images.githubusercontent.com/117126177/209977224-937ff358-7ad7-49fb-9ca5-882a9114e523.png"
+</div>
+
+
 - 👋 Olá, eu me chamo Rafael knevitz da cruz
 - 👀 Estou em busca de uma oportunidade de emprego
 - 👨‍🎓 Sou formado em Técnico em informática para internet
