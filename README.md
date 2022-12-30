@@ -1,5 +1,5 @@
 <div>
-    <img alt="imagem-topo"  height="200" width="1000" src="https://user-images.githubusercontent.com/117126177/209977224-937ff358-7ad7-49fb-9ca5-882a9114e523.png"
+    <img alt="imagem-topo"  height="100" width="1000" src="https://user-images.githubusercontent.com/117126177/209977224-937ff358-7ad7-49fb-9ca5-882a9114e523.png"
 </div>
 
 
@@ -49,5 +49,5 @@
     
     
 <div>
-    <img alt="imagem-inferior"  height="200" width="1000" src="https://user-images.githubusercontent.com/117126177/209977770-a5f3216a-9661-4800-ac59-2de976f64b60.png"
+    <img alt="imagem-inferior"  height="100" width="1000" src="https://user-images.githubusercontent.com/117126177/209977770-a5f3216a-9661-4800-ac59-2de976f64b60.png"
 </div>
