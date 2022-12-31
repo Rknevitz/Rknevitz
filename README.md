@@ -18,11 +18,6 @@
     <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rknevitz&layout=compact&langs_count=7&theme=dark"/>
   </div>
   
-  
-  [![](./0-profile-details.svg)](https://github.com/Rknevitz/github-profile-summary-cards)
-[![](./1-repos-per-language.svg)](https://github.com/Rknevitz/github-profile-summary-cards) [![](./2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](./3-stats.svg)](https://github.com/Rknevitz/github-profile-summary-cards) [![](./4-productive-time.svg)](https://github.com/Rkenvitz/github-profile-summary-cards)
-### Now you can add this to your markdown
 
     
 <div style="display: inline_block"align="center"><br> 
