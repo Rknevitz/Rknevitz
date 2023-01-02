@@ -9,8 +9,6 @@
 - 🌱 Atualmente estou cursando análise e desenvolvimento de software
 - 🥈 Segundo lugar na maratona de programação do Instituto federal Sul-Rio-Grandense
 
-##
-
 
 <div align="center">
     <a href="https://github.com/Rknevitz">
