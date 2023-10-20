@@ -42,10 +42,4 @@
  <a href = "mailto:rafael.knevitz96@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>  <a href = "https://www.linkedin.com/in/rafael-knevitz-da-cruz-57835a1b8/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>    
 </div>
     
-    
-![snake gif](https://github.com/Rknevitz/Rknevitz/blob/output/github-contribution-grid-snake.svg) 
-    
-    
-<div>
-    <img alt="imagem-inferior"  height="100" width="1000" src="https://user-images.githubusercontent.com/117126177/209977770-a5f3216a-9661-4800-ac59-2de976f64b60.png"
-</div>
+  
